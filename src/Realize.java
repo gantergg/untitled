@@ -4,5 +4,5 @@ public interface Realize {
         void divisionNumber();
         void divisionMoney();
         void multiplyNumber();
-        void multyplyMoney();
+        void comparison();
     }
